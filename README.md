@@ -52,6 +52,10 @@
 
 ### Frontend
 
+#### Testing E2E
+
+- Cypress - <https://www.cypress.io/>
+
 #### Micro frontend
 
 - Piral - <https://piral.io/>
