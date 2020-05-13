@@ -32,6 +32,12 @@
 - NestJs - <https://nestjs.com/>
 - NextJs - <https://nextjs.org/>
 
+### Authentication (Self hosted)
+
+- Keycloak - <https://www.keycloak.org/>
+- Gluu - <https://gluu.org/docs/#free-open-source-software>
+- FusionAuth - <https://fusionauth.io/docs/v1/tech/>
+
 #### API Gateway
 
 - Kong - <https://github.com/kong/kong>
