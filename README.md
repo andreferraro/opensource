@@ -1,4 +1,8 @@
+
 # Open source
+
+## Utils
+- Stackedit.io - MD Editor - <https://stackedit.io/app>
 
 ## Jamstack
 
@@ -31,8 +35,9 @@
 #### API Gateway
 
 - Kong - <https://github.com/kong/kong>
-- - Konga, a GUI for Kong - <https://pantsel.github.io/konga/>
-- - KongDash - <https://kongdash.xyz/>
+	 - Konga, a GUI for Kong - <https://pantsel.github.io/konga/>
+		 - Kong + Konga - <https://dev.to/vousmeevoyez/setup-kong-konga-part-2-dan>
+	 - KongDash - <https://kongdash.xyz/>
 - KrakenD - <https://www.krakend.io/>
 - Tyk - <https://tyk.io/>
 
@@ -53,6 +58,7 @@
 #### Logging
 
 - winston - <https://github.com/winstonjs/winston>
+- Sentry - <https://github.com/getsentry/sentry>
 
 ### Frontend
 
