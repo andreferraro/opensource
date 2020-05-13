@@ -31,6 +31,8 @@
 #### API Gateway
 
 - Kong - <https://github.com/kong/kong>
+- KrakenD - <https://www.krakend.io/>
+- Tyk - <https://tyk.io/>
 
 #### Transporters
 
