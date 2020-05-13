@@ -31,7 +31,8 @@
 #### API Gateway
 
 - Kong - <https://github.com/kong/kong>
--- Konga, a GUI for Kong - <https://pantsel.github.io/konga/>
+- - Konga, a GUI for Kong - <https://pantsel.github.io/konga/>
+- - KongDash - <https://kongdash.xyz/>
 - KrakenD - <https://www.krakend.io/>
 - Tyk - <https://tyk.io/>
 
